@@ -1,0 +1,963 @@
+#EXTM3U
+#EXTINF:-1,Christmas
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443136
+#EXTINF:-1,Fiesta
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443137
+#EXTINF:-1,Flamenco
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443138
+#EXTINF:-1,Hiphop
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443139
+#EXTINF:-1,House
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443140
+#EXTINF:-1,Jazz
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443141
+#EXTINF:-1,Latino
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443142
+#EXTINF:-1,Lomassonado
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443143
+#EXTINF:-1,MegaBASS
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443144
+#EXTINF:-1,Metal
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443145
+#EXTINF:-1,Musica8K
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443146
+#EXTINF:-1,Nostalgia
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443147
+#EXTINF:-1,Reggaeton
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443149
+#EXTINF:-1,Relax
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443150
+#EXTINF:-1,Resturantes
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443151
+#EXTINF:-1,Rock
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443152
+#EXTINF:-1,Romance
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443153
+#EXTINF:-1,Tropicaldeephouse
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443154
+#EXTINF:-1,05- 24H FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336160
+#EXTINF:-1,02- LA 1 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336161
+#EXTINF:-1,01- LA 1 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336163
+#EXTINF:-1,04- LA 2 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336165
+#EXTINF:-1,03- LA 2 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336167
+#EXTINF:-1,07- ANTENA 3 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336169
+#EXTINF:-1,06- ANTENA 3 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336171
+#EXTINF:-1,08- CUATRO HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336173
+#EXTINF:-1,09- CUATRO FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336175
+#EXTINF:-1,11- TELECINCO FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336177
+#EXTINF:-1,10- TELECINCO HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336179
+#EXTINF:-1,13- LA SEXTA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336181
+#EXTINF:-1,12- LA SEXTA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336183
+#EXTINF:-1,14- CANAL SUR
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336185
+#EXTINF:-1,16- NEOX FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336187
+#EXTINF:-1,27- ENERGY 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336189
+#EXTINF:-1,28- ENERGY EXTRA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336190
+#EXTINF:-1,25- MEGA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336191
+#EXTINF:-1,26- MEGA EXTRA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336192
+#EXTINF:-1,18- NOVA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336195
+#EXTINF:-1,23- DIVINITY 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336197
+#EXTINF:-1,24- DIVINITY EXTRA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336198
+#EXTINF:-1,20- FDF EXTRA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336200
+#EXTINF:-1,21- BE MAD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336201
+#EXTINF:-1,22- BE MAD EXTRA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336202
+#EXTINF:-1,32- TEN
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336203
+#EXTINF:-1,30- DKISS
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336204
+#EXTINF:-1,33- TRECE
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336205
+#EXTINF:-1,29- DMAX
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336206
+#EXTINF:-1,31- EL TORO TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336207
+#EXTINF:-1,35- TELEDEPORTE FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336887
+#EXTINF:-1,TVG GALICIA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425894
+#EXTINF:-1,CANAL MALAGA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425895
+#EXTINF:-1,ETB 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425896
+#EXTINF:-1,ETB 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425897
+#EXTINF:-1,VEPACO TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425898
+#EXTINF:-1,Canal Extremadura
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425899
+#EXTINF:-1,Canal 25 Barbastro TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425900
+#EXTINF:-1,Diez TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425901
+#EXTINF:-1,CANAL SUR ANDALUCIA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425902
+#EXTINF:-1,Onda Cadiz
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425903
+#EXTINF:-1,TEF
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425904
+#EXTINF:-1,MELILLA TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425905
+#EXTINF:-1,ERLO TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425906
+#EXTINF:-1,Urola TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425907
+#EXTINF:-1,TeleGilena
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425908
+#EXTINF:-1,Islatel
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425909
+#EXTINF:-1,Bailen TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425911
+#EXTINF:-1,Canal 4 Mancha Centro
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425913
+#EXTINF:-1,Canal 56 NOTICIES
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425914
+#EXTINF:-1,Alcarria tv
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425915
+#EXTINF:-1,CMM TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425916
+#EXTINF:-1,Vision 6 TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425917
+#EXTINF:-1,Onda Cádiz 24h
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425918
+#EXTINF:-1,La 8 Avila
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425919
+#EXTINF:-1,Lancelot TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425920
+#EXTINF:-1,Ribera TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425922
+#EXTINF:-1,Levante TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425923
+#EXTINF:-1,Piera TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/425924
+#EXTINF:-1,TELEMADRID
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/433945
+#EXTINF:-1, A PUNT 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/438162
+#EXTINF:-1,7 TV SEVILLA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439332
+#EXTINF:-1,TV 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439494
+#EXTINF:-1,7 REGION DE MURCIA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/441004
+#EXTINF:-1,ARAGON TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/441670
+#EXTINF:-1,PTV LINARES
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442706
+#EXTINF:-1,PTV MALAGA ( EN PRUEBAS )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442707
+#EXTINF:-1,Costa noroeste en vivo 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445845
+#EXTINF:-1,TV3 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/450585
+#EXTINF:-1,TV3 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/450586
+#EXTINF:-1,ESPORT3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/450967
+#EXTINF:-1,TELEDEPORTE SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454830
+#EXTINF:-1,M+ DEPORTES FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439958
+#EXTINF:-1,M+ DEPORTES HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442148
+#EXTINF:-1,M. DEPORTES SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454827
+#EXTINF:-1,03- BETIS TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/115990
+#EXTINF:-1,29- SEVILLA FC TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/118734
+#EXTINF:-1,28- MULTIDEPORTE
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336410
+#EXTINF:-1,27- MOVISTAR GOLF EXTRA 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336415
+#EXTINF:-1,26- MOVISTAR GOLF 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336416
+#EXTINF:-1, #VAMOS FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336421
+#EXTINF:-1, #VAMOS HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454645
+#EXTINF:-1, #VAMOS SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336419
+#EXTINF:-1,06- ELLAS #VAMOS FHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336424
+#EXTINF:-1,18- M. DEPORTES 2 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336434
+#EXTINF:-1,20- M. DEPORTES 3 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336435
+#EXTINF:-1,23- M. DEPORTES 4 FHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336437
+#EXTINF:-1,22- M. DEPORTES 4 SD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336438
+#EXTINF:-1,21- M. DEPORTES 3 FHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336439
+#EXTINF:-1,24- M. DEPORTES 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336440
+#EXTINF:-1,08- EUROSPORT 1 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336443
+#EXTINF:-1,10- EUROSPORT 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336445
+#EXTINF:-1,02- BARÇA TV FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336889
+#EXTINF:-1,13- GOL TV 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336890
+#EXTINF:-1,14- GOL TV EXTRA 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336891
+#EXTINF:-1,Real Madrid TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/338657
+#EXTINF:-1,LIGA CAMPEONES 4K
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452423
+#EXTINF:-1,LIGA CAMPEONES FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336222
+#EXTINF:-1,LIGA CAMPEONES HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336220
+#EXTINF:-1, LIGA CAMPEONES SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336218
+#EXTINF:-1,LIGA CAMPEONES 2 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336223
+#EXTINF:-1,LIGA CAMPEONES 2 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336219
+#EXTINF:-1,LIGA CAMPEONES 3 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336226
+#EXTINF:-1, LIGA CAMPEONES 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336227
+#EXTINF:-1,LIGA CAMPEONES 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336228
+#EXTINF:-1,LIGA CAMPEONES 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336229
+#EXTINF:-1,LIGA CAMPEONES 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336230
+#EXTINF:-1,LIGA CAMPEONES 8 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336231
+#EXTINF:-1,WRC
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439115
+#EXTINF:-1,TENNIS TV 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439848
+#EXTINF:-1,M+ DEPORTES 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439996
+#EXTINF:-1,NBA TV CANADA  (24 HORAS DE TRANSMISION )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445819
+#EXTINF:-1,NBA TV HD   (24 HORAS DE TRANSMISION )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445820
+#EXTINF:-1,NBA  (TNT)  24 HORAS DE TRANSMISION 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445821
+#EXTINF:-1,NBA 1 -  (24  HORAS DE TRANSMISION)
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445822
+#EXTINF:-1,NBA 2 -  (24 HORAS DE TRANSMISION )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445823
+#EXTINF:-1,CONTROL DE CARRETERAS ESPAÑA 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453287
+#EXTINF:-1,PATRULLA DE FRONTERAS USA 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453286
+#EXTINF:-1,CONTROL DE FRONTERAS EUROPA 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453285
+#EXTINF:-1,AMBULANCIAS 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453284
+#EXTINF:-1,¿QUIEN DA MAS? 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453283
+#EXTINF:-1,PESADILLA EN LA COCINA 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453282
+#EXTINF:-1,EL JEFE INFILTRADO 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453281
+#EXTINF:-1,POLICIAS EN ACCIÓN 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453280
+#EXTINF:-1,EQUIPO DE INVESTIGACIÓN 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453279
+#EXTINF:-1,PADRE DE FAMILIA 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453278
+#EXTINF:-1,FUTURAMA 24H HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453277
+#EXTINF:-1,LOS SIMPSON 24H HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453276
+#EXTINF:-1,CUARTO MILENIO 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453275
+#EXTINF:-1,MOTOGP SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454582
+#EXTINF:-1,MOTOGP FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454583
+#EXTINF:-1,RUGBY FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454828
+#EXTINF:-1,RUGBY SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454829
+#EXTINF:-1,VUELTA A ESPAÑA SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454832
+#EXTINF:-1,VUELTA A ESPAÑA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454833
+#EXTINF:-1,MOTOGP SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454834
+#EXTINF:-1,BURGOS - CF-EIBAR SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/455906
+#EXTINF:-1,BURGOS - CF-EIBAR FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/455907
+#EXTINF:-1,FOOTBALL CLUB 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456446
+#EXTINF:-1,FOOTBALL CLUB 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456447
+#EXTINF:-1,FOOTBALL CLUB 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456448
+#EXTINF:-1,FOOTBALL CLUB 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456449
+#EXTINF:-1,FOOTBALL CLUB 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456450
+#EXTINF:-1,FOOTBALL CLUB 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456451
+#EXTINF:-1,FOOTBALL CLUB 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456452
+#EXTINF:-1,FOOTBALL CLUB 8
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456453
+#EXTINF:-1,FOOTBALL CLUB 9
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456454
+#EXTINF:-1,FOOTBALL CLUB 10
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456455
+#EXTINF:-1,FOOTBALL CLUB 11
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456456
+#EXTINF:-1,FOOTBALL CLUB 12
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456457
+#EXTINF:-1,FOOTBALL CLUB 13
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456458
+#EXTINF:-1,FOOTBALL CLUB 14
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456459
+#EXTINF:-1,FOOTBALL CLUB 15
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/456460
+#EXTINF:-1,M+ SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453132
+#EXTINF:-1,M+ FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453130
+#EXTINF:-1,M. ESTRENOS HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336291
+#EXTINF:-1,32- M + CINE FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336292
+#EXTINF:-1,20- M. ACCION HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336293
+#EXTINF:-1,21- M. ACCION FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336294
+#EXTINF:-1,27- M. COMEDIA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336296
+#EXTINF:-1,28- M. COMEDIA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336297
+#EXTINF:-1,29- M. DRAMA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336299
+#EXTINF:-1,30- M. DRAMA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336300
+#EXTINF:-1,33- M. PLUS +HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336301
+#EXTINF:-1,34- M. PLUS+ FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336302
+#EXTINF:-1,37-M+ SUSPENSE2 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336303
+#EXTINF:-1,38- M+ SUSPENSE FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336304
+#EXTINF:-1,23- M. CINE ESPAÑOL FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336310
+#EXTINF:-1,35- M. SERIES HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336311
+#EXTINF:-1,36- M. SERIES FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336312
+#EXTINF:-1,26- M. CLASICOS FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336313
+#EXTINF:-1,25- M. CLASICOS HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336314
+#EXTINF:-1,04- AXN HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336316
+#EXTINF:-1,02- AMC HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336322
+#EXTINF:-1,03- AMC FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336323
+#EXTINF:-1,06- AXN WHITE HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336324
+#EXTINF:-1,16- FOX HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336326
+#EXTINF:-1,17- FOX FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336327
+#EXTINF:-1,42- SYFY
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336329
+#EXTINF:-1,01- ATRES SERIES 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336330
+#EXTINF:-1,11- COMEDY CENTRAL HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336333
+#EXTINF:-1,12- COMEDY CENTRAL FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336334
+#EXTINF:-1,09- CALLE 13 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336335
+#EXTINF:-1,10- CALLE 13 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336336
+#EXTINF:-1,18- HOLLYWOOD HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336337
+#EXTINF:-1,19- HOLLYWOOD FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336338
+#EXTINF:-1,WARNER TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336340
+#EXTINF:-1,14- COSMO HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336343
+#EXTINF:-1,15- COSMO FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336344
+#EXTINF:-1,41- SUNDANCE 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336346
+#EXTINF:-1,08- BOM CINE
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336347
+#EXTINF:-1,39- PARAMOUNT NETWORK 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336474
+#EXTINF:-1,40- SOMOS 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336456
+#EXTINF:-1,45- XTRM
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336454
+#EXTINF:-1,MYTIME MOVIE NETWORK
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/438807
+#EXTINF:-1,M VACACIONES
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/446147
+#EXTINF:-1,MOVISTAR DOCUMENTALES FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451957
+#EXTINF:-1,MOVISTAR DOCUMENTALES HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451958
+#EXTINF:-1,MOVISTAR DOCUMENTALES SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451959
+#EXTINF:-1,MOVISTAR INDIE FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451960
+#EXTINF:-1,MOVISTAR INDIE HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451961
+#EXTINF:-1,MOVISTAR INDIE SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451962
+#EXTINF:-1,MOVISTAR CRACKS SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451963
+#EXTINF:-1,M+ MUSICA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453131
+#EXTINF:-1,M. ORIGINALES FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454804
+#EXTINF:-1,M. Originales SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454825
+#EXTINF:-1,M. Originales HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454826
+#EXTINF:-1,25- M. DEPORTES 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/115689
+#EXTINF:-1,DAZN LA LIGA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/119552
+#EXTINF:-1,DAZN LA LIGA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451528
+#EXTINF:-1,DAZN LA LIGA SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/119551
+#EXTINF:-1,DAZN LA LIGA 2 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/119553
+#EXTINF:-1,DAZN LA LIGA 2 HD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/154234
+#EXTINF:-1,DAZN LA LIGA 3 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445397
+#EXTINF:-1,LA LIGA 4K ( PRUEBAS)
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452425
+#EXTINF:-1,LA LIGA FHD ORANGE
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452539
+#EXTINF:-1,LA LIGA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336237
+#EXTINF:-1,LA LIGA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336234
+#EXTINF:-1,LA LIGA SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336233
+#EXTINF:-1,LA LIGA 2 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336254
+#EXTINF:-1,LA LIGA 2 HD (SÓLO EVENTOS)
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336253
+#EXTINF:-1,LA LIGA 2 SD (SÓLO EVENTOS)
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336252
+#EXTINF:-1,LA LIGA 3 HD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336260
+#EXTINF:-1,MOVISTAR L.CAMPEONES 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439850
+#EXTINF:-1,DAZN LA LIGA 5 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445399
+#EXTINF:-1,LA LIGA 4 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445400
+#EXTINF:-1,DAZN LA LIGA 4 HD 720P
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445398
+#EXTINF:-1,LA LIGA 5 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445401
+#EXTINF:-1,LA LIGA 6 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445402
+#EXTINF:-1,MOVISTAR CHAMPIONS TOUR FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/450640
+#EXTINF:-1,MOVISTAR CHAMPIONS TOUR HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/450641
+#EXTINF:-1,DAZN 1 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336349
+#EXTINF:-1,DAZN 1 FHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336350
+#EXTINF:-1,DAZN 2 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336354
+#EXTINF:-1,DAZN 2 FHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336355
+#EXTINF:-1,DAZN 3 FHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336362
+#EXTINF:-1,DAZN 4 fhd
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336363
+#EXTINF:-1,13- DAZN F1 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336368
+#EXTINF:-1,14- DAZN F1 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336370
+#EXTINF:-1,DAZN F1 4K
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336372
+#EXTINF:-1,DAZN EVENTOS 1 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439327
+#EXTINF:-1,DAZN EVENTOS 2 HD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439328
+#EXTINF:-1,DAZN EVENTOS 3 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439329
+#EXTINF:-1,DAZN EVENTOS 4 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439330
+#EXTINF:-1,DAZN EVENTOS 5 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439331
+#EXTINF:-1,DAZN F1 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439995
+#EXTINF:-1,F1TV | F1TV LIVE AUDIO ESP
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440070
+#EXTINF:-1,F1TV | F1TV LIVE AUDIO AMBIENTE FX
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440071
+#EXTINF:-1,F1TV | TRACKER
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440075
+#EXTINF:-1,F1TV | DATA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440076
+#EXTINF:-1,F1TV | F1 ONBOARD Oscar Piastri
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440077
+#EXTINF:-1,F1TV | F1 ONBOARD Max Verstappen
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440078
+#EXTINF:-1,F1TV | F1 ONBOARD Logan Sargeant
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440079
+#EXTINF:-1,F1TV | F1 ONBOARD Lando Norris
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440080
+#EXTINF:-1,F1TV | F1 ONBOARD Pierre Gasly
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440081
+#EXTINF:-1,F1TV | F1 ONBOARD Sergio Pérez
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440082
+#EXTINF:-1,F1TV | F1 ONBOARD Fernando Alonso
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440083
+#EXTINF:-1,F1TV | F1 ONBOARD Charles Leclerc
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440084
+#EXTINF:-1,F1TV | F1 ONBOARD Lance Stroll
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440085
+#EXTINF:-1,F1TV | F1 ONBOARD Kevin Magnussen
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440086
+#EXTINF:-1,F1TV | F1 ONBOARD Nyck de Vries
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440087
+#EXTINF:-1,F1TV | F1 ONBOARD Yuki Tsunoda
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440088
+#EXTINF:-1,F1TV | F1 ONBOARD Alexander Albon
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440089
+#EXTINF:-1,F1TV | F1 ONBOARD Guanyu Zhou
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440090
+#EXTINF:-1,F1TV | F1 ONBOARD Nico Hulkenberg
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440091
+#EXTINF:-1,F1TV | F1 ONBOARD Esteban Ocon
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440092
+#EXTINF:-1,F1TV | F1 ONBOARD Lewis Hamilton
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440093
+#EXTINF:-1,F1TV | F1 ONBOARD Carlos Sainz Jr.
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440094
+#EXTINF:-1,F1TV | F1 ONBOARD George Russell
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440095
+#EXTINF:-1,F1TV | F1 ONBOARD Valtteri Bottas
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440096
+#EXTINF:-1,MGPTV | Camara General Carrera Con Comentarios
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440287
+#EXTINF:-1,MGPTV | Camara General Carrera Sin Comentarios
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440288
+#EXTINF:-1,MGPTV | Camara Helicoptero
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440289
+#EXTINF:-1,MGPTV | Camara de a bordo 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440290
+#EXTINF:-1,MGPTV | Camara de a bordo 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440291
+#EXTINF:-1,MGPTV | Camara de a bordo 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440292
+#EXTINF:-1,MGPTV | Camara de a bordo 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440293
+#EXTINF:-1,MGPTV | Camara Carrera 360 grados en 2K ( Solo Motogp )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440294
+#EXTINF:-1,MGPTV | Camara General Carrera Con Comentarios ( AUDIO INGLES )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/444245
+#EXTINF:-1,MGPTV | Camara General Carrera Sonido Ambiente FX
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/444246
+#EXTINF:-1,MGPTV | Camara Helicoptero
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/444247
+#EXTINF:-1,MGPTV | Camara de a bordo 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/444248
+#EXTINF:-1,MGPTV | Camara de a bordo 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/444249
+#EXTINF:-1,MGPTV | Camara de a bordo 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/444250
+#EXTINF:-1,MGPTV | Camara de a bordo 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/444251
+#EXTINF:-1,MGPTV | Camara Carrera 360 grados en 2K ( Solo Motogp )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/444252
+#EXTINF:-1,Eventos Dona HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/446093
+#EXTINF:-1,MLS Eventos HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451971
+#EXTINF:-1,SKY SPORT MOTO GP HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452810
+#EXTINF:-1,GOL MUNDIAL FHD 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452983
+#EXTINF:-1,GOL MUNDIAL FHD 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452984
+#EXTINF:-1,GOL MUNDIAL FHD 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452985
+#EXTINF:-1,GOL MUINDIAL FHD 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452986
+#EXTINF:-1,GOL MUNDIAL FHD 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452987
+#EXTINF:-1,FEF TV 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453113
+#EXTINF:-1,FEF TV 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453114
+#EXTINF:-1,FEF TV 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453115
+#EXTINF:-1,FEF TV 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453116
+#EXTINF:-1,FEF TV 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453117
+#EXTINF:-1,FEF TV 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453118
+#EXTINF:-1,FEF TV 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453119
+#EXTINF:-1,FEF TV 8
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453120
+#EXTINF:-1,HYPERMOTION SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453247
+#EXTINF:-1,HYPERMOTION FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336885
+#EXTINF:-1,HYPERMOTION HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453248
+#EXTINF:-1,HYPERMOTION 2 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453250
+#EXTINF:-1,HYPERMOTION 2 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453251
+#EXTINF:-1,HYPERMOTION 3 SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453252
+#EXTINF:-1,HYPERMOTION 3 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453253
+#EXTINF:-1,HYPERMOTION 3 FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453254
+#EXTINF:-1,FEF TV 9
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453262
+#EXTINF:-1,FEF TV 10
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453264
+#EXTINF:-1,FEF TV 11
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453265
+#EXTINF:-1,FEF TV 12
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453269
+#EXTINF:-1,FEF TV 13
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453270
+#EXTINF:-1,FEF TV 14
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453271
+#EXTINF:-1,FEF TV 15
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453273
+#EXTINF:-1,SSC 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453485
+#EXTINF:-1,ssc 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453486
+#EXTINF:-1,ssc 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453487
+#EXTINF:-1,ssc 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453488
+#EXTINF:-1,ssc 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453489
+#EXTINF:-1,ssc 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453491
+#EXTINF:-1,ssc 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453490
+#EXTINF:-1,DANZ F1 4K
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336708
+#EXTINF:-1,ATV II
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454770
+#EXTINF:-1,TYC SPORTS I
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454771
+#EXTINF:-1,TYC SPORTS II
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454772
+#EXTINF:-1,TV PUBLICA I
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454773
+#EXTINF:-1,VENEVISION |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454774
+#EXTINF:-1,TNT SPORT |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454775
+#EXTINF:-1,TNT SPORTS 2 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454776
+#EXTINF:-1,CHILEVISION |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454777
+#EXTINF:-1,CHILEVISION SD |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454778
+#EXTINF:-1,MEGA FHD |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454779
+#EXTINF:-1,VTV PLUS HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454780
+#EXTINF:-1,VTV PLUS II 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454781
+#EXTINF:-1,TIGO SPORTS |Excusiva|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454782
+#EXTINF:-1,TELEAMAZONAS |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454783
+#EXTINF:-1,TELEAMAZONAS II
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454784
+#EXTINF:-1,EL CANAL DEL FUTBOL |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454785
+#EXTINF:-1,EL CANAL DEL FUTBOL II
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454786
+#EXTINF:-1,CARACOL |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454787
+#EXTINF:-1,CARACOL II |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454788
+#EXTINF:-1,CARACOL III
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454789
+#EXTINF:-1,RCN | Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454790
+#EXTINF:-1,RCN II | Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454791
+#EXTINF:-1,RCN III
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454792
+#EXTINF:-1,AMERICA TV |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454793
+#EXTINF:-1,AMERICA TV II  |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454794
+#EXTINF:-1,LATINA |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454795
+#EXTINF:-1,LATINA II |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454796
+#EXTINF:-1,D SPORTS III
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454797
+#EXTINF:-1,MUNDOTORO TV HD (ES) 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440715
+#EXTINF:-1,MUNDOTORO TV SD (ES)
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/440714
+#EXTINF:-1,TOROLE hd
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443089
+#EXTINF:-1,12- AMC CRIME
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/109763
+#EXTINF:-1,15- DARK FHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336452
+#EXTINF:-1,14- DARK HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336451
+#EXTINF:-1,10- CAZA Y PESCA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336458
+#EXTINF:-1,09- CAZA Y PESCA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336457
+#EXTINF:-1,11- CAZAVISION
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336460
+#EXTINF:-1,06- CANAL COCINA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336463
+#EXTINF:-1,07- CANAL DECASA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336464
+#EXTINF:-1,CANAL DECASA FHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336465
+#EXTINF:-1,35- ODISEA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336467
+#EXTINF:-1,17- DISCOVERY FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336470
+#EXTINF:-1,18- HISTORIA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336471
+#EXTINF:-1,19- HISTORIA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336472
+#EXTINF:-1,22- IBERALIA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336475
+#EXTINF:-1,21- IBERALIA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336476
+#EXTINF:-1,23- IBERALIA 100% CAZA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336895
+#EXTINF:-1,24- IBERALIA 100% PESCA 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336896
+#EXTINF:-1,33- NAT GEO WILD FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336478
+#EXTINF:-1,32- NAT GEO WILD HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336477
+#EXTINF:-1,31- NATIONAL GEOGRAPHIC FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336480
+#EXTINF:-1,30- NATIONAL GEOGRAPHIC HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336479
+#EXTINF:-1,02- M. #0RIGINALES FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336892
+#EXTINF:-1,01- M. #0RIGINALES HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336893
+#EXTINF:-1,04- AMC BREAK HD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336319
+#EXTINF:-1,20- HORSE TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336894
+#EXTINF:-1,25- MOVISTAR MÚSICA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336897
+#EXTINF:-1,26- M. LA RESISTENCIA 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336898
+#EXTINF:-1,U-BEAT FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336411
+#EXTINF:-1,NAUTICAL HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437176
+#EXTINF:-1,DARK RED FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437177
+#EXTINF:-1,CANAL COCINA 4K UHD 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437387
+#EXTINF:-1,ENFAMILIA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/438806
+#EXTINF:-1,¡BUEN VIAJE!
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/441942
+#EXTINF:-1,DISNEY CHANNEL 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336571
+#EXTINF:-1,DISNEY JUNIOR
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336572
+#EXTINF:-1,NICKELODEON
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336574
+#EXTINF:-1,04- CLAN TVE
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336576
+#EXTINF:-1,BOING
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336577
+#EXTINF:-1,CANAL PANDA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336579
+#EXTINF:-1,DREAMWORKS
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336581
+#EXTINF:-1,BABY TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336582
+#EXTINF:-1,NICK JR
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/427762
+#EXTINF:-1,Ben Y Holly
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454798
+#EXTINF:-1,Los Simpsons
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454799
+#EXTINF:-1,Futurama
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454800
+#EXTINF:-1,Padre de Familia
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454801
+#EXTINF:-1,Zak Storm
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454802
+#EXTINF:-1,johnny test 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454803
+#EXTINF:-1,Rakuten TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437513
+#EXTINF:-1, Rakuten Comedia
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437515
+#EXTINF:-1,Rakuten Family
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437518
+#EXTINF:-1,Estrenos Info
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442069
+#EXTINF:-1,Estrenos 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442070
+#EXTINF:-1,Estrenos 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442071
+#EXTINF:-1,Estrenos 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442072
+#EXTINF:-1,Estrenos 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442073
+#EXTINF:-1,Estrenos 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442074
+#EXTINF:-1,Estrenos 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442075
+#EXTINF:-1,Estrenos 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442076
+#EXTINF:-1,Estrenos 8
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442077
+#EXTINF:-1,Estrenos 9
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442078
+#EXTINF:-1,Estrenos 10
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442079
+#EXTINF:-1,Series Info
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442080
+#EXTINF:-1,Serie 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442081
+#EXTINF:-1,Serie 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442082
+#EXTINF:-1,Serie 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442083
+#EXTINF:-1,Serie 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442084
+#EXTINF:-1,Serie 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442085
+#EXTINF:-1,Serie 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442086
+#EXTINF:-1,Serie 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442087
+#EXTINF:-1,Serie 8
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442088
+#EXTINF:-1,Serie 9
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442089
+#EXTINF:-1,Serie 10
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442090
+#EXTINF:-1,Serie 11
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442091
+#EXTINF:-1,Estrenos 11
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442092
+#EXTINF:-1,Estrenos 12
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442093
+#EXTINF:-1,Estrenos 13
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442094
+#EXTINF:-1,Estrenos 14
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442095
+#EXTINF:-1,Estrenos 15
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442096
+#EXTINF:-1,Estrenos 16
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442097
+#EXTINF:-1,Serie 12
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442098
+#EXTINF:-1,Serie 13
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442099
+#EXTINF:-1,Serie 14
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442100
+#EXTINF:-1,Serie 15
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442101
+#EXTINF:-1,Serie 16
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442102
+#EXTINF:-1,Programas info
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443813
+#EXTINF:-1,Programa 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443814
+#EXTINF:-1,Programa 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443815
+#EXTINF:-1,Programa 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443816
+#EXTINF:-1,Programa 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443817
+#EXTINF:-1,Programa 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443818
+#EXTINF:-1,Programa 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443819
+#EXTINF:-1,Programa 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443820
+#EXTINF:-1,Programa 8
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443821
+#EXTINF:-1,Programa 9
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443822
+#EXTINF:-1,Programa 10
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443823
+#EXTINF:-1,Programa 11
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443824
+#EXTINF:-1,Programa 12
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/443825
+#EXTINF:-1,Rakuten Acción 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452692
+#EXTINF:-1,RAKUTEN CINE ESPAÑOL
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454592
+#EXTINF:-1,RAKUTEN CINE CORTOS
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454593
+#EXTINF:-1,RAKUTEN MY PADEL TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454594
+#EXTINF:-1,RAKUTEN PELIS A LA CARTA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454595
+#EXTINF:-1,RAKUTEN DRAMA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454596
+#EXTINF:-1,RAKUTEN THRILLERS 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454597
+#EXTINF:-1,RAKUTEN ROMANTICO
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454598
+
+
